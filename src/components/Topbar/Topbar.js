@@ -4,7 +4,7 @@ import './topbar.css'
 
 function Topbar () {
     return(
-       <Navbar className="bg-dark fixed-top">
+       <Navbar className="bg-primary fixed-top">
         <Container>
           <Navbar.Brand href="">
             <img
