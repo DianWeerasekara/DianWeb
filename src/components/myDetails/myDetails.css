@@ -1,0 +1,29 @@
+.mydetails-main-container {
+    background-color: rgba(255, 255, 255, 0.85); /* White with 85% opacity */
+    z-index: 3;
+    position: relative;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+.main-div-mydetails {
+  position: relative;
+  /* background-image: url('../../../public/img/dlogo.png');  */
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Adjust height as needed */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.details-image {
+  width: auto;
+  height: auto;
+  border-radius: 10px;
+  margin-top: 1rem;
+  max-height: 300px; /* Adjust this as needed */
+  object-fit: cover;
+}
