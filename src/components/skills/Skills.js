@@ -17,6 +17,10 @@ import mysqlIcon from '../../images/mysqlIcon.png';
 import mongodbIcon from '../../images/mongoIcon.png';
 import postgressIcon from '../../images/postgress.png';
 import neo4jIcon from '../../images/neo4jIcon.png';
+import gitIcon from '../../images/gitIcon.png';
+import agileIcon from '../../images/agileIcon.png';
+import jestIcon from '../../images/jestIcon.png';
+import dockerIcon from '../../images/dockerIcon.png';
 
 function Skills() {
     return(
@@ -109,16 +113,16 @@ function Skills() {
                 </Row>
                 <Row>
                     <Col>
-                        <Cards title={'Git'} />
+                        <Cards title={'Git'} image={gitIcon} />
                     </Col>
                     <Col>
-                        <Cards title={'Agile/Scrum'} />
+                        <Cards title={'Agile/Scrum'} image={agileIcon} />
                     </Col>
                     <Col>
-                        <Cards title={'Jest'} />
+                        <Cards title={'Jest'} image={jestIcon} />
                     </Col>
                     <Col>
-                        <Cards title={'Docker'} />
+                        <Cards title={'Docker'} image={dockerIcon} />
                     </Col>
                 </Row>
             </Container>
