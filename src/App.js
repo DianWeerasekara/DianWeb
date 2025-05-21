@@ -12,7 +12,6 @@ function App() {
       <AboutMe />
       <Skills />
       <Education />
-      <h1>Hello World</h1>
     </>
   );
 }
