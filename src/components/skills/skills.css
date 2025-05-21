@@ -1,0 +1,18 @@
+.skills_container{
+    background-color: rgba(255, 255, 255, 0.85);
+    z-index: 3;
+    position: relative;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.main_skills_container {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
