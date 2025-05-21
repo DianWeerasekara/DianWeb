@@ -1,6 +1,12 @@
+import { Container } from "react-bootstrap";
+
 function Education () {
     return(
-        <h1>Eduction div</h1>
+       <div className="main_education_section">
+            <Container className="education_container">
+                
+            </Container>
+       </div>
     )
 }
 
