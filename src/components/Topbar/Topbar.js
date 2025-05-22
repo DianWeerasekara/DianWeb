@@ -1,6 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import './topbar.css'
+import logo from '../../images/dlogo.png'
 
 function Topbar () {
     return(
@@ -9,7 +10,7 @@ function Topbar () {
           <Navbar.Brand href="">
             <img
               alt=""
-              src="/img/dlogo.png"
+              src={logo}
               width="30"
               height="30"
               className="d-inline-block align-top"
