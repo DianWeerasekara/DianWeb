@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/DianWeb/static/css/main.bf42aa92.css",
-    "main.js": "/DianWeb/static/js/main.f3e5ff70.js",
+    "main.js": "/DianWeb/static/js/main.01f5902e.js",
+    "static/media/dlogo.png": "/DianWeb/static/media/dlogo.d2e78a98842e1472f10f.png",
     "static/media/postgress.png": "/DianWeb/static/media/postgress.feb2e00ce8ea923ac386.png",
     "static/media/express.png": "/DianWeb/static/media/express.2e9f3166fd64bcc6bcac.png",
     "static/media/dmb.jpg": "/DianWeb/static/media/dmb.7b771521413242c4b65d.jpg",
@@ -13,10 +14,10 @@
     "static/media/htmlIcon.png": "/DianWeb/static/media/htmlIcon.354f15bf8d57659dc87c.png",
     "index.html": "/DianWeb/index.html",
     "main.bf42aa92.css.map": "/DianWeb/static/css/main.bf42aa92.css.map",
-    "main.f3e5ff70.js.map": "/DianWeb/static/js/main.f3e5ff70.js.map"
+    "main.01f5902e.js.map": "/DianWeb/static/js/main.01f5902e.js.map"
   },
   "entrypoints": [
     "static/css/main.bf42aa92.css",
-    "static/js/main.f3e5ff70.js"
+    "static/js/main.01f5902e.js"
   ]
 }
