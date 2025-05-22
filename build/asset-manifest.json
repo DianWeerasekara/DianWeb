@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dianWeb/static/css/main.bf42aa92.css",
-    "main.js": "/dianWeb/static/js/main.1edddaba.js",
-    "static/media/postgress.png": "/dianWeb/static/media/postgress.feb2e00ce8ea923ac386.png",
-    "static/media/express.png": "/dianWeb/static/media/express.2e9f3166fd64bcc6bcac.png",
-    "static/media/dmb.jpg": "/dianWeb/static/media/dmb.7b771521413242c4b65d.jpg",
-    "static/media/cssIcon.png": "/dianWeb/static/media/cssIcon.26272b8088ea3b1323cb.png",
-    "static/media/reactIcon.png": "/dianWeb/static/media/reactIcon.3b5049ea7908e9da3ba0.png",
-    "static/media/ucsc.png": "/dianWeb/static/media/ucsc.17519e8c8ab58915e624.png",
-    "static/media/phpIcon.png": "/dianWeb/static/media/phpIcon.08b972999ef9ba0c5ce0.png",
-    "static/media/agileIcon.png": "/dianWeb/static/media/agileIcon.19f92740b838b8a60d4a.png",
-    "static/media/htmlIcon.png": "/dianWeb/static/media/htmlIcon.354f15bf8d57659dc87c.png",
-    "index.html": "/dianWeb/index.html",
-    "main.bf42aa92.css.map": "/dianWeb/static/css/main.bf42aa92.css.map",
-    "main.1edddaba.js.map": "/dianWeb/static/js/main.1edddaba.js.map"
+    "main.css": "/DianWeb/static/css/main.bf42aa92.css",
+    "main.js": "/DianWeb/static/js/main.f3e5ff70.js",
+    "static/media/postgress.png": "/DianWeb/static/media/postgress.feb2e00ce8ea923ac386.png",
+    "static/media/express.png": "/DianWeb/static/media/express.2e9f3166fd64bcc6bcac.png",
+    "static/media/dmb.jpg": "/DianWeb/static/media/dmb.7b771521413242c4b65d.jpg",
+    "static/media/cssIcon.png": "/DianWeb/static/media/cssIcon.26272b8088ea3b1323cb.png",
+    "static/media/reactIcon.png": "/DianWeb/static/media/reactIcon.3b5049ea7908e9da3ba0.png",
+    "static/media/ucsc.png": "/DianWeb/static/media/ucsc.17519e8c8ab58915e624.png",
+    "static/media/phpIcon.png": "/DianWeb/static/media/phpIcon.08b972999ef9ba0c5ce0.png",
+    "static/media/agileIcon.png": "/DianWeb/static/media/agileIcon.19f92740b838b8a60d4a.png",
+    "static/media/htmlIcon.png": "/DianWeb/static/media/htmlIcon.354f15bf8d57659dc87c.png",
+    "index.html": "/DianWeb/index.html",
+    "main.bf42aa92.css.map": "/DianWeb/static/css/main.bf42aa92.css.map",
+    "main.f3e5ff70.js.map": "/DianWeb/static/js/main.f3e5ff70.js.map"
   },
   "entrypoints": [
     "static/css/main.bf42aa92.css",
-    "static/js/main.1edddaba.js"
+    "static/js/main.f3e5ff70.js"
   ]
 }
