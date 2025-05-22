@@ -1,7 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import './topbar.css'
-import logo from '../../images/dlogo.png'
+import logo from '../../images/dlogo.png';
 
 function Topbar () {
     return(
